@@ -1,0 +1,10 @@
+torch>=2.0
+numpy
+scipy
+scikit-learn
+pyriemann>=0.5
+moabb
+mne
+matplotlib
+seaborn
+thop
